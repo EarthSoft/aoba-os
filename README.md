@@ -1,2 +1,1 @@
-This is an Android OS Project
-  
+# aoba-os
